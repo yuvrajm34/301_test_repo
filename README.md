@@ -1,2 +1,1 @@
-# 301_test_repo
-test repo for SEPT 23
+This is a test repository for CMPUT 301 Tuesday lab (Fall 2025)
