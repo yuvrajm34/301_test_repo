@@ -1,1 +1,3 @@
 something in file2.txt
+line 2 
+line 3
